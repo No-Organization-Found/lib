@@ -1,4 +1,4 @@
-# Docsy Example
+# [lib] No Organization Found
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b179cd65-da50-4cce-9046-17e9ec6396e2/deploy-status)](https://app.netlify.com/sites/no-organization-found/deploys)
 
