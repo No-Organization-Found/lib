@@ -147,10 +147,15 @@ npm install
 hugo server
 ```
 
-Set CNAME to and replace `no-organization-found` with your own 
-```
-no-organization-found.com CNAME no-organization-found.netlify.app
-```
+
+1. `Create a CNAME` or `replace current CNAME`
+2. And replace `no-organization-found` with your own in both
+   ```
+   no-organization-found.com CNAME no-organization-found.netlify.app
+   ```
+   ```
+   www.no-organization-found.com CNAME no-organization-found.netlify.app
+   ```
 
 [alternate dashboard]: https://app.netlify.com/sites/goldydocs/deploys
 [deploys]: https://app.netlify.com/sites/docsy-example/deploys
