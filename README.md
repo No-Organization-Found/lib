@@ -129,6 +129,24 @@ This error occurs if you have not installed the `go` programming language on you
 See this [section](https://www.docsy.dev/docs/get-started/docsy-as-module/installation-prerequisites/#install-go-language) of the user guide for instructions on how to install `go`.
 
 
+### Other
+
+```
+git clone --depth 1 https://github.com/No-Organization-Found/lib.git
+```
+
+```
+cd lib
+```
+
+```
+npm install
+```
+
+```
+hugo server
+```
+
 [alternate dashboard]: https://app.netlify.com/sites/goldydocs/deploys
 [deploys]: https://app.netlify.com/sites/docsy-example/deploys
 [Docsy user guide]: https://docsy.dev/docs
