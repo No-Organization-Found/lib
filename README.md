@@ -1,5 +1,7 @@
 # Docsy Example
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b179cd65-da50-4cce-9046-17e9ec6396e2/deploy-status)](https://app.netlify.com/sites/no-organization-found/deploys)
+
 [Docsy][] is a [Hugo theme module][] for technical documentation sites, providing easy
 site navigation, structure, and more. This **Docsy Example Project** uses the Docsy
 theme component as a hugo module and provides a skeleton documentation structure for you to use.
