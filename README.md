@@ -133,28 +133,33 @@ See this [section](https://www.docsy.dev/docs/get-started/docsy-as-module/instal
 
 ### Other
 
-```
-git clone --depth 1 https://github.com/No-Organization-Found/lib.git
-```
+1. Clone this `git`
+   ```
+   git clone --depth 1 https://github.com/No-Organization-Found/lib.git
+   ```
 
-```
-cd lib
-```
+2. Enter the cloned folder `lib`
+   ```
+   cd lib
+   ```
 
-```
-npm install
-```
+3. Install the required modules with `npm`
+   ```
+   npm install
+   ```
 
-```
-hugo server
-```
+4. Build and start your local hugo server
+   ```
+   hugo server
+   ```
 
-
+#### Change DNS
 1. `Create a CNAME` or `replace current CNAME`
 2. And replace `no-organization-found` with your own in both
    ```
    no-organization-found.com CNAME no-organization-found.netlify.app
    ```
+   and
    ```
    www.no-organization-found.com CNAME no-organization-found.netlify.app
    ```
