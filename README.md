@@ -133,22 +133,19 @@ See this [section](https://www.docsy.dev/docs/get-started/docsy-as-module/instal
 
 ### Other
 
-1. Clone this `git`
+1. Clone this [Repostitory](https://github.com/No-Organization-Found/lib.git)
    ```
    git clone --depth 1 https://github.com/No-Organization-Found/lib.git
    ```
-
 2. Enter the cloned folder `lib`
    ```
    cd lib
    ```
-
-3. Install the required modules with `npm`
+3. Install the required modules with [npm](https://www.npmjs.com/)
    ```
    npm install
    ```
-
-4. Build and start your local hugo server
+4. Build and start your local [hugo](https://gohugo.io/) server
    ```
    hugo server
    ```
